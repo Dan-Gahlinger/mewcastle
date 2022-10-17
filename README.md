@@ -24,3 +24,5 @@ then there are two "plain" versions - as RAR or as ZIP - again pick your prefere
 The plain versions uncompress and create a "newcastle" directory with everything in it but have no desktop shortcut or uninstaller.
 
 Note: I am very close to getting the Raspberry Pi (Arm) version of Castle completed and it'll be posted when ready
+
+See the castle_user_guide.pdf for more information on the game
