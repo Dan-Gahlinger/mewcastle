@@ -1,9 +1,10 @@
 
-The New Castle V21.0.14 - Released Oct 16/2022
+The New Castle V22pre (v22 prerelease) - Released Oct 26/2022
 
-The LINUX version of the new castle v21.0.14 is also included, it is the same code as the DOS/Windows version, may have many bugs!
+The LINUX version of the new castle v22 prerelease, is the same code as the DOS/Windows version, may have many bugs!
 please report errors.  The debugging mode has been left intact in order to facility this...
 
+**** As this is a "pre-release" - I am *ONLY* interested in showstoppers! ****
 
 simply unzip to any place you like, it will create its own directory. and read the castle_user_guide files (DOC or PDF) for information
 for the linux version - decompressing the file downloaded with create a directory like ~/newcastle, then simply cd ~/newcastle
