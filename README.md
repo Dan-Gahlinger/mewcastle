@@ -1,7 +1,7 @@
 
 The New Castle V22pre (v22 prerelease) - Released Oct 26/2022
 
-The LINUX version of the new castle v22 prerelease, is the same code as the DOS/Windows version, may have many bugs!
+The LINUX version of the new castle is the same code as the DOS/Windows version, may have many bugs!
 please report errors.  The debugging mode has been left intact in order to facility this...
 
 **** As this is a "pre-release" - I am *ONLY* interested in showstoppers! ****
