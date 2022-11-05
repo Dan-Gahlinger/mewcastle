@@ -6,6 +6,12 @@ please report errors.  The debugging mode has been left intact in order to facil
 
 **** As this is a "pre-release" - I am *ONLY* interested in showstoppers! ****
 
+HINT command has been re-added, but it's all covered in the docs, user guide, intro and instructions, so not necessary.
+
+SAVE and RESTORE functions have been added - single slot SAVE availale
+RESTORE is ONLY available at the start of a new game - it will prompt you
+SAVE is limited and restricted in certain places, events, etc, and has a minimum move count. eg: The game will not save if you are in the maze
+
 simply unzip to any place you like, it will create its own directory. and read the castle_user_guide files (DOC or PDF) for information
 for the linux version - decompressing the file downloaded with create a directory like ~/newcastle, then simply cd ~/newcastle
 then run the Linux version of the game supplied: newcast (eg: ./newcast) to run it
