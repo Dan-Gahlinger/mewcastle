@@ -1,5 +1,5 @@
 
-The New Castle V22pre (v22 prerelease) - Released Oct 26/2022
+The New Castle V22.2pre (v22.2 prerelease) - Released Nov 5/2022
 
 The LINUX version of the new castle is the same code as the DOS/Windows version, may have many bugs!
 please report errors.  The debugging mode has been left intact in order to facility this...
@@ -18,6 +18,7 @@ The MAC Version has been ressurected! Finally I've been able to build the Mac bi
 Except the Mac binary is called: newcastle_mac
 it'll decompress creating a newcastle directory and putting eveyrthing you need in there, then just change to that dir
 and type: ./newcastle_mac
+The Mac 32Bit version is deprecated! I am not accepting bug reports for this version, it's now old, outdated, defunct.
 
 Note: For PC Dos/Windows there are several versions available - use the one that suits your preference...
 there is an EXE installer (with built-in uninstaller) - and also this version as a ZIP file and as a RAR - pick the one you like
