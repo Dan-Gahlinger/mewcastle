@@ -1,5 +1,5 @@
 
-The New Castle V22.2pre (v22.2 prerelease) - Released Nov 5/2022
+The New Castle V22.2c-pre (v22.2c prerelease) - Released Nov 6/2022
 
 The LINUX version of the new castle is the same code as the DOS/Windows version, may have many bugs!
 please report errors.  The debugging mode has been left intact in order to facility this...
@@ -11,6 +11,8 @@ HINT command has been re-added, but it's all covered in the docs, user guide, in
 SAVE and RESTORE functions have been added - single slot SAVE availale
 RESTORE is ONLY available at the start of a new game - it will prompt you
 SAVE is limited and restricted in certain places, events, etc, and has a minimum move count. eg: The game will not save if you are in the maze
+
+*** SAVE FILES FROM PREVIOUS VERSIONS ARE INCOMPATIBLE WITH THIS VERSION AND FUTURE VERSIONS ***
 
 simply unzip to any place you like, it will create its own directory. and read the castle_user_guide files (DOC or PDF) for information
 for the linux version - decompressing the file downloaded with create a directory like ~/newcastle, then simply cd ~/newcastle
@@ -24,7 +26,8 @@ The MAC Version has been ressurected! Finally I've been able to build the Mac bi
 Except the Mac binary is called: newcastle_mac
 it'll decompress creating a newcastle directory and putting eveyrthing you need in there, then just change to that dir
 and type: ./newcastle_mac
-The Mac 32Bit version is deprecated! I am not accepting bug reports for this version, it's now old, outdated, defunct.
+
+*** The Mac 32Bit version is deprecated! I am not accepting bug reports for this version, it's now old, outdated, defunct.
 
 Note: For PC Dos/Windows there are several versions available - use the one that suits your preference...
 there is an EXE installer (with built-in uninstaller) - and also this version as a ZIP file and as a RAR - pick the one you like
